@@ -2,25 +2,24 @@
 layout: home
 
 hero:
-  name: "My App"
-  text: "Simple, fast setup."
+  name: "JDMO Docs"
   tagline: Everything you need to get up and running in minutes.
   actions:
     - theme: brand
       text: Get Started
       link: /guide/introduction
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/your-org/docs-site
+      text: JDMO Hub
+      link: https://c0llydoll.dev/hub
 
 features:
   - icon: ⚡️
     title: Quick Setup
-    details: Get the app running locally in under 5 minutes with our step-by-step guide.
+    details: Connect to JDMO in under 5 minutes with our step-by-step guide.
   - icon: 🔧
     title: Easy Configuration
-    details: Simple config files with sensible defaults. No complex setup required.
+    details: Everything set-up and prepared for you. No complex setup required.
   - icon: 📖
     title: Clear Docs
-    details: Every feature documented with real examples your team can follow.
+    details: Every feature documented with real examples you can follow.
 ---
