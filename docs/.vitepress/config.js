@@ -9,6 +9,8 @@ export default {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/introduction' },
+      { text: 'Hub', link: 'https://c0llydoll.dev/hub' },
+      { text: 'Discord', link: 'https://discord.gg/jdmo' },
       { text: 'GitHub', link: 'https://github.com/jdmo-tech/public-docs' }
     ],
 
