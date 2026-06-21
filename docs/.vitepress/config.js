@@ -1,7 +1,7 @@
 export default {
-  title: 'My App Docs',
-  description: 'Everything your users need to get up and running.',
-  base: '/docs-site/', // 🔁 Change this to /your-repo-name/
+  title: 'JDMO Docs',
+  description: 'Documentation for Just Dance Melody Online.',
+  base: '/public-docs/',
 
   themeConfig: {
     logo: '/logo.svg',
@@ -9,7 +9,7 @@ export default {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/introduction' },
-      { text: 'GitHub', link: 'https://github.com/your-org/docs-site' }
+      { text: 'GitHub', link: 'https://github.com/jdmo-tech/public-docs' }
     ],
 
     sidebar: [
@@ -31,7 +31,7 @@ export default {
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025 Your Company'
+      copyright: 'Copyright © 2026 JDMO Team'
     },
 
     search: {
