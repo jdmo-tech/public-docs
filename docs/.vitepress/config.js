@@ -1,7 +1,7 @@
 export default {
   title: 'JDMO Docs',
   description: 'Documentation for Just Dance Melody Online.',
-  base: '/public-docs/',
+  base: '/',
 
   themeConfig: {
     logo: '/icon.png',
