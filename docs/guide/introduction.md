@@ -1,34 +1,16 @@
 # Introduction
 
-Welcome to **My App** — a short description of what your app does and who it's for.
+Welcome to Just Dance Melody Online Documentation! This is a place where you can find the latest documentations made by our team to inform you about how the service works.
 
-## What is My App?
+## Get started
 
-Replace this with a 2–3 sentence overview of your product. What problem does it solve? Who uses it?
+[Have a look at the available games, platforms and features](/guide/matrix.md).
 
-## How it works
+Pick a console from the left panel or click the links below:
 
-Give users a high-level mental model before they dive into setup. You can use a simple list:
+- [Wii U](/guide/how-to-play/wiiu.md)
+- [PC (Crack)](/guide/how-to-play/pc-crack.md)
 
-1. Install the app
-2. Connect your data source
-3. Configure your settings
-4. You're live
+## Must read
 
-## Before you begin
-
-Make sure you have the following ready:
-
-| Requirement | Version |
-|---|---|
-| Node.js | 18 or higher |
-| npm | 8 or higher |
-| Operating System | macOS, Linux, or Windows |
-
-::: tip
-Not sure which version you have? Run `node -v` and `npm -v` in your terminal.
-:::
-
-## Next steps
-
-Head to [Installation](/guide/installation) to get the app running on your machine.
+Please ready our [privacy policy](https://c0llydoll.dev/privacy) and [terms of use](https://c0llydoll.dev/terms) before you continue.

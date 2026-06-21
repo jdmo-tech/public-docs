@@ -1,4 +1,4 @@
-# My App Docs
+# JDMO Docs
 
 Documentation site built with [VitePress](https://vitepress.dev), deployed to GitHub Pages via GitHub Actions.
 

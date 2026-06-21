@@ -4,7 +4,7 @@ export default {
   base: '/public-docs/',
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/icon.png',
 
     nav: [
       { text: 'Home', link: '/' },
@@ -17,8 +17,14 @@ export default {
         text: 'Getting Started',
         items: [
           { text: 'Introduction', link: '/guide/introduction' },
-          { text: 'Installation', link: '/guide/installation' },
-          { text: 'Configuration', link: '/guide/configuration' },
+          { text: 'Game, Platform & Feature Support Matrix', link: '/guide/matrix' },
+        ]
+      },
+      {
+        text: 'How to play?',
+        items: [
+          { text: 'Wii U', link: '/guide/how-to-play/wiiu' },
+          { text: 'PC (Crack)', link: '/guide/how-to-play/pc-crack' },
         ]
       },
       {
